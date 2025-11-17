@@ -1,4 +1,4 @@
-# Repo Belajar React Pertama kali
+# Learn React First time in my life repo :v
 
 # React + Vite
 
