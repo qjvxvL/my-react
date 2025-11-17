@@ -1,3 +1,5 @@
+# Learn React First time in my life repo :v
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
